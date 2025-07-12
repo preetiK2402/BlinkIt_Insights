@@ -56,5 +56,5 @@ The goal of this project was to:
 
 ## 🖼️ Dashboard Preview
 
-> Below is a snapshot of the interactive dashboard:
+> Below is a snapshot of the interactive dashboard: (https://github.com/preetiK2402/BlinkIt_Insights/blob/main/BlinkIt.png)
 
